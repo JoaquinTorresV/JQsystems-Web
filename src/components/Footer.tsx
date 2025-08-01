@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
               Genera matrículas automáticamente sin inversión adicional en publicidad.
             </p>
             <p className="text-lg font-bold text-green-400 mb-4">
-              &quot;Solo pagas si ganas — sin riesgo, sin compromiso&quot;
+              Solo pagas si ganas — sin riesgo, sin compromiso
             </p>
             <div className="flex space-x-4">
               <a href="https://wa.me/56932115412" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-green-400 transition-colors">
@@ -83,7 +83,7 @@ const Footer: React.FC = () => {
             © 2024 JQsystems • Joaquín Torres. Todos los derechos reservados.
           </p>
           <p className="text-sm text-gray-400 mt-2">
-            &quot;Solo pagas si ganas — sin riesgo, sin compromiso&quot;
+            Solo pagas si ganas — sin riesgo, sin compromiso
           </p>
         </div>
       </div>
